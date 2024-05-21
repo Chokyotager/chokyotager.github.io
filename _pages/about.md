@@ -10,7 +10,7 @@ redirect_from:
 ![Cameron Highlands](/images/CameronHighlands.jpg)
 <i><sub>Cameron Highlands, Malaysia. Photo: Hilbert Lam</sub></i>
 
-Hello! I'm Hilbert Lam (林潤然). I am a biology student. My main overarching interests are in computer-aided drug design (CADD) and applying AI to biology. I work rather extensively in this field and am familiar with the virtual screening and drug discovery pipelines. I have published in this field. I have published a few papers in this field and am actively working on expanding its frontiers.
+Hello! I'm Hilbert Lam (林潤然). I am a biology student. My main overarching interests are in computer-aided drug design (CADD) and applying AI to biology. I work rather extensively in this field and am familiar with the virtual screening and drug discovery pipelines. I have published in this field and am actively working on expanding its frontiers.
 
 In addition to CADD, I have experience in creating biomedical imaging AI (specifically optical coherence tomography segmentation AIs), analysing bioinformatics data and doing wet lab experiments. My wet lab experience was mainly in microbiology and doing RT-PCR. My exposure to AI started in 2017, when I coded a small neural network library in JavaScript from scratch and experimented with GANs and LSTMs in TensorFlow (I mainly use PyTorch now).
 
