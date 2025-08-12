@@ -24,6 +24,6 @@ As you can probably tell, my interests and experiences are a little all over the
 ![BIND banner](https://github.com/Chokyotager/BIND/raw/main/art/abstract.png?raw=true)
 <i><sub>BIND, a fully sequence-based drug discovery model that is competitive with structure-based ones.</sub></i>
 
-I am Chinese Singaporean, born and raised in Singapore. As of now, I am an undergraduate reading biology at Nanyang Technological University. Previously, I received a diploma (associate degree equivalent) in Biomedical Science from Singapore Polytechnic.
+I am Chinese Singaporean, born and raised in Singapore. As of now, I am an incoming PhD student (starting in Michaelmas 2025) at the University of Cambridge under the supervision of Professor Michele Vendruscolo. Previously, I received a diploma (associate degree equivalent) in Biomedical Science from Singapore Polytechnic and a Bachelor of Science (Honours) degree from Nanyang Technological University.
 
 Feel free to contact me on Discord `@chocoparrot` if you want to have an informal chat. Or you could just email me.
