@@ -27,7 +27,7 @@ author:
   bio              : "Biology student researcher interested in computer-aided drug design, AI and microbiology"
   location         : "Singapore / Cambridge, UK"
   employer         : "University of Cambridge"
-  uri              : # URL
+  uri              : "hilbertlam.com"
   email            : "yil21@cam.ac.uk" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6129-2703"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Hilbert-Lam"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
