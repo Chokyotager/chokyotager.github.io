@@ -27,7 +27,7 @@ author:
   bio              : "Biology student researcher interested in computer-aided drug design, AI and microbiology"
   location         : "Singapore / Cambridge, UK"
   employer         : "University of Cambridge"
-  uri              : "hilbertlam.com"
+  uri              : #"hilbertlam.com"
   email            : "yil21@cam.ac.uk" 
 
   # Academic websites
